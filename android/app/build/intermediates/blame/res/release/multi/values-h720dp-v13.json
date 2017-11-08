@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/manasa/React/FireChat/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/values-h720dp/values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 66,
+                        "endOffset": 345
+                    }
+                }
+            }
+        ]
+    }
+]

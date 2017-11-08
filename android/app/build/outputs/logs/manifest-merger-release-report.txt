@@ -1,0 +1,379 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:1:1-57:12
+	package
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/manasa/.android/build-cache/0426bcab40c640842a25dead78f548ef0edccfd9/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:9:5-77
+MERGED from [com.facebook.react:react-native:0.34.0] /home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:9:22-75
+uses-sdk
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:11:5-13:41
+MERGED from [Firechat:react-native-fcm:unspecified] /home/manasa/React/FireChat/node_modules/react-native-fcm/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/manasa/.android/build-cache/0889c59bd3e5e087d20bdad6e19fed9ef3299dd7/output/AndroidManifest.xml:17:5-43
+MERGED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/manasa/.android/build-cache/a7554d15aa7018fe97bd80d3f7d4a90f1c6bdae4/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/manasa/.android/build-cache/0426bcab40c640842a25dead78f548ef0edccfd9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/manasa/.android/build-cache/4f37d160078d6dc0463adbc26fd64cd24d0df232/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/manasa/.android/build-cache/5e56fcda877f0a397ea3e100e11240a7100997b7/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/manasa/.android/build-cache/57e0204cdad0bdfffb3f9d23d58c33df30841f4a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.facebook.react:react-native:0.34.0] /home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /home/manasa/.android/build-cache/b6a5e8a655c4a0cefd1bfdae3a8ef945174eabf0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:0.11.0] /home/manasa/.android/build-cache/32d92a2c1895e94aa5ddc84cf91b6e6363fe6537/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] /home/manasa/.android/build-cache/fb116f694d0ea74d56cae5f83151d59af7c3f0d3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] /home/manasa/.android/build-cache/bbbcb3f6b234f5ed8d4d0a602803ccfa60b03c90/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] /home/manasa/.android/build-cache/624bec28a97d7aaa3f27a2ddb4f0fcd31260cd53/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] /home/manasa/.android/build-cache/49e46420015ebf2f12ae4b49764803a0e127f695/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.2.0] /home/manasa/.android/build-cache/bd98fcf89a147b27fd3a4d23c2bddd9301710865/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/manasa/.android/build-cache/40943ffc586879452493ef6fa64bb88aa5935a52/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/manasa/.android/build-cache/922f01fe38ad6b692df9ef7c95e9bfd7a2a37d46/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/manasa/.android/build-cache/ba0ac6ddc06455e275c088c11a2fa5ee84a8b490/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/manasa/.android/build-cache/7a46442aec736a95725c8452397038824fc7ed19/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/manasa/.android/build-cache/8745cb35a39a2a765bfbbc6d7794bc1e0be8f784/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:fbcore:0.11.0] /home/manasa/.android/build-cache/594879d20da8d389b97047e1e586f4fdf67a2ecf/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/manasa/.android/build-cache/27f6691d469fa2ecc80d0ec7193ffe089b94c86a/output/AndroidManifest.xml:2:3-70
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /home/manasa/.android/build-cache/bd98fcf89a147b27fd3a4d23c2bddd9301710865/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:13:9-38
+		INJECTED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:12:9-35
+		INJECTED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:15:5-55:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/manasa/.android/build-cache/0889c59bd3e5e087d20bdad6e19fed9ef3299dd7/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/manasa/.android/build-cache/a7554d15aa7018fe97bd80d3f7d4a90f1c6bdae4/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/manasa/.android/build-cache/0426bcab40c640842a25dead78f548ef0edccfd9/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/manasa/.android/build-cache/4f37d160078d6dc0463adbc26fd64cd24d0df232/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/manasa/.android/build-cache/5e56fcda877f0a397ea3e100e11240a7100997b7/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/manasa/.android/build-cache/57e0204cdad0bdfffb3f9d23d58c33df30841f4a/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.react:react-native:0.34.0] /home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/manasa/.android/build-cache/bd98fcf89a147b27fd3a4d23c2bddd9301710865/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/manasa/.android/build-cache/40943ffc586879452493ef6fa64bb88aa5935a52/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/manasa/.android/build-cache/922f01fe38ad6b692df9ef7c95e9bfd7a2a37d46/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/manasa/.android/build-cache/ba0ac6ddc06455e275c088c11a2fa5ee84a8b490/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/manasa/.android/build-cache/7a46442aec736a95725c8452397038824fc7ed19/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/manasa/.android/build-cache/8745cb35a39a2a765bfbbc6d7794bc1e0be8f784/output/AndroidManifest.xml:25:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/manasa/.android/build-cache/27f6691d469fa2ecc80d0ec7193ffe089b94c86a/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/manasa/.android/build-cache/a21b19e7000fdc4c9a0b07572acd290b48598e17/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:18:7-39
+	android:allowBackup
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:17:7-33
+	android:icon
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:19:7-41
+	android:theme
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:20:7-38
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:16:7-38
+service#com.evollu.react.fcm.MessagingService
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:22:7-26:17
+	android:enabled
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:22:69-91
+	android:exported
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:22:92-115
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:22:16-68
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:23:9-25:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:24:11-71
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:24:19-69
+service#com.evollu.react.fcm.InstanceIdService
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:28:7-32:17
+	android:exported
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:28:70-94
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:28:16-69
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:29:9-31:25
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:30:11-73
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:30:19-71
+activity#com.firechat.MainActivity
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:33:7-43:18
+	android:label
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:35:9-41
+	android:launchMode
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:37:9-39
+	android:windowSoftInputMode
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:36:9-51
+	android:configChanges
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:34:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:39:9-42:25
+action#android.intent.action.MAIN
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:40:13-65
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:40:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:41:13-73
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:41:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:44:7-84
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:44:17-81
+receiver#com.evollu.react.fcm.FIRLocalMessagingPublisher
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:46:7-81
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:46:17-79
+receiver#com.evollu.react.fcm.FIRSystemBootEventReceiver
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:47:7-54:18
+	android:enabled
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:47:17-39
+	android:exported
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:47:40-63
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:47:65-127
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.DEFAULT+com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:48:11-53:27
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:49:15-76
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:49:23-74
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:50:15-79
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:50:23-77
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:51:15-79
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:51:23-77
+category#android.intent.category.DEFAULT
+ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:52:15-74
+	android:name
+		ADDED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:52:25-71
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/manasa/.android/build-cache/0889c59bd3e5e087d20bdad6e19fed9ef3299dd7/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/manasa/.android/build-cache/0889c59bd3e5e087d20bdad6e19fed9ef3299dd7/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/manasa/.android/build-cache/0889c59bd3e5e087d20bdad6e19fed9ef3299dd7/output/AndroidManifest.xml:23:18-87
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.17] /home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/AndroidManifest.xml:50:22-86
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/manasa/.android/build-cache/0426bcab40c640842a25dead78f548ef0edccfd9/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/manasa/.android/build-cache/0426bcab40c640842a25dead78f548ef0edccfd9/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/manasa/.android/build-cache/0426bcab40c640842a25dead78f548ef0edccfd9/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/manasa/.android/build-cache/0426bcab40c640842a25dead78f548ef0edccfd9/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /home/manasa/.android/build-cache/4f37d160078d6dc0463adbc26fd64cd24d0df232/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/manasa/.android/build-cache/4f37d160078d6dc0463adbc26fd64cd24d0df232/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/manasa/.android/build-cache/4f37d160078d6dc0463adbc26fd64cd24d0df232/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/manasa/.android/build-cache/4f37d160078d6dc0463adbc26fd64cd24d0df232/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/manasa/.android/build-cache/4f37d160078d6dc0463adbc26fd64cd24d0df232/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/manasa/.android/build-cache/57e0204cdad0bdfffb3f9d23d58c33df30841f4a/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/manasa/.android/build-cache/57e0204cdad0bdfffb3f9d23d58c33df30841f4a/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/manasa/.android/build-cache/57e0204cdad0bdfffb3f9d23d58c33df30841f4a/output/AndroidManifest.xml:20:20-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:1:1-57:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:1:1-57:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/manasa/React/FireChat/android/app/src/main/AndroidManifest.xml:1:1-57:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

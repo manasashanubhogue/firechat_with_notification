@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/manasa/React/FireChat/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/values-w500dp/values-w500dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            }
+        ]
+    }
+]

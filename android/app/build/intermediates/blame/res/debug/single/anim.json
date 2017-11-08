@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/manasa/React/FireChat/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/anim/abc_fade_in.xml"
+    }
+]

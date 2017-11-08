@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/manasa/React/FireChat/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bn/values-bn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 210,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/home/manasa/.android/build-cache/57e0204cdad0bdfffb3f9d23d58c33df30841f4a/output/res/values-bn/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 210,
+                        "endOffset": 495
+                    }
+                }
+            }
+        ]
+    }
+]

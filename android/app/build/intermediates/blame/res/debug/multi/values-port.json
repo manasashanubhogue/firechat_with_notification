@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/manasa/React/FireChat/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 55,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]

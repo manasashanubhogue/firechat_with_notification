@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fde7c0ad7606dc25ae2c1fa11b8a48199ea3adc9">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_008d64ff3137b476c97c689f0f432aaf06d41ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_44f4702c179ebccd4b476c75f442d0e6e6d877ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/8745cb35a39a2a765bfbbc6d7794bc1e0be8f784/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_00a27cac298753e7de80ea082b4bc810c5fcd5a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/57e0204cdad0bdfffb3f9d23d58c33df30841f4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_0988fd038ce37ef196c7b01046f77b3ac6b720f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/bbbcb3f6b234f5ed8d4d0a602803ccfa60b03c90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_fa83fde2659d76461112b12d12518649d359026a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/922f01fe38ad6b692df9ef7c95e9bfd7a2a37d46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_4102e59660db0cdd6c1c72491993f5780648bfd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/27f6691d469fa2ecc80d0ec7193ffe089b94c86a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_f19723d3926cfbe62029ce8859f8f53308591835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/594879d20da8d389b97047e1e586f4fdf67a2ecf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_7f95deaba406f1e2e3d1b6fafa1ff651cd2491e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/32d92a2c1895e94aa5ddc84cf91b6e6363fe6537/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_b153a405efb2d4297496fc77ec4d8dea53fbe0e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_aa3c9417f7b408d344134a51786e0b13f34e0dfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_1adc414d4e6885e04d798946c4fff81651bf4c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/React/FireChat/node_modules/react-native-fcm/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ef84f09e96e90dfbc431bbe0eada471548ad21b">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_6fffd7ce86d79f8f2ca6d98faba5d3b15565a68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/b6a5e8a655c4a0cefd1bfdae3a8ef945174eabf0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_5e0cdc3c9c97cc6c03d22a4436d96226ad05acd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_4f3eedb5d63a40ffa1d2a44e788065898e44ce06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/4f37d160078d6dc0463adbc26fd64cd24d0df232/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_ef0994f8a91b2606216c385afea8c1a9570d724c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_7746150ea5c91ec029efee4e044f3aa21dcabb1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/872cd23ffc9183089bad3f3f67cd32cb0a5b4c2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_4f3eedb5d63a40ffa1d2a44e788065898e44ce06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/49e46420015ebf2f12ae4b49764803a0e127f695/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_4846d43c7e415e1b58967591854d71d5b58d8def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/0426bcab40c640842a25dead78f548ef0edccfd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_3186c41b50d13c35e86bc8a6422cbae2acdbf8b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_760e8d1f7c709192ad8615f750341d5b5bece714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e855c9c7d50e2df71dd66a6f131d89ec1b400cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_e250d578eb7ddeb01a90b09daf653055afd4d5ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_00a21a7b328d6f9a7ad490d20f97759696331198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_af0a4fa4520dc91fdf54c6f8c288df8a00ce813f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/5e56fcda877f0a397ea3e100e11240a7100997b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_36ffa96b98099bf1e1b2125fd76fdfccee2b8950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="556b9e3c9e1695ceb107102139dfe6346f4721c5">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_b96db9c1cde549c3ee34fbc3132f7d4d89ada724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_a22fedea7b705e230686fb3b9f529419d1faf7db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/0889c59bd3e5e087d20bdad6e19fed9ef3299dd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_da238d30536783458312b092f57c1eeae70c5718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/7a46442aec736a95725c8452397038824fc7ed19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_d15292a162407b6d9af5d371d930f6c2441fcbc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/fb116f694d0ea74d56cae5f83151d59af7c3f0d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_ca3326b1e02301393cd9219f1e2eac07a3e2ae49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/624bec28a97d7aaa3f27a2ddb4f0fcd31260cd53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_bfc107b4c9b20f74b255a28ec2a1f7c38c3a54b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/ba0ac6ddc06455e275c088c11a2fa5ee84a8b490/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_0526f7bfac62c00172c136db2bfbc48acb18e8a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_787131be4c93f18912b6c0d00c341d9679b057cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_a1d64af562489258205a149c6b0fdcc9b93c1c40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/40943ffc586879452493ef6fa64bb88aa5935a52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_7a91ba3808ece4bedd06256cd345bc1aa18112a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/bbbcb3f6b234f5ed8d4d0a602803ccfa60b03c90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_fa83fde2659d76461112b12d12518649d359026a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_44f4702c179ebccd4b476c75f442d0e6e6d877ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a9913eae8d3cec849490a1f47e01fa33ebd2d830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/8745cb35a39a2a765bfbbc6d7794bc1e0be8f784/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_00a27cac298753e7de80ea082b4bc810c5fcd5a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/57e0204cdad0bdfffb3f9d23d58c33df30841f4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_0988fd038ce37ef196c7b01046f77b3ac6b720f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fde7c0ad7606dc25ae2c1fa11b8a48199ea3adc9">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_008d64ff3137b476c97c689f0f432aaf06d41ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/27f6691d469fa2ecc80d0ec7193ffe089b94c86a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_f19723d3926cfbe62029ce8859f8f53308591835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/594879d20da8d389b97047e1e586f4fdf67a2ecf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_7f95deaba406f1e2e3d1b6fafa1ff651cd2491e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/624bec28a97d7aaa3f27a2ddb4f0fcd31260cd53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_bfc107b4c9b20f74b255a28ec2a1f7c38c3a54b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/bd98fcf89a147b27fd3a4d23c2bddd9301710865/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_8e167f197f24a2fba629fafba838f9dc9adf0754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_1adc414d4e6885e04d798946c4fff81651bf4c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/b6a5e8a655c4a0cefd1bfdae3a8ef945174eabf0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_5e0cdc3c9c97cc6c03d22a4436d96226ad05acd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/f584409f589718ce7447ae8f9b8489aa612afa73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_aa3c9417f7b408d344134a51786e0b13f34e0dfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/4f37d160078d6dc0463adbc26fd64cd24d0df232/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_ef0994f8a91b2606216c385afea8c1a9570d724c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/React/FireChat/node_modules/react-native-fcm/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ef84f09e96e90dfbc431bbe0eada471548ad21b">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_6fffd7ce86d79f8f2ca6d98faba5d3b15565a68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_7746150ea5c91ec029efee4e044f3aa21dcabb1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/922f01fe38ad6b692df9ef7c95e9bfd7a2a37d46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_4102e59660db0cdd6c1c72491993f5780648bfd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_e250d578eb7ddeb01a90b09daf653055afd4d5ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/6bda151ba1053a29e702c7b186beda0c8e60b8c2/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="556b9e3c9e1695ceb107102139dfe6346f4721c5">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_b96db9c1cde549c3ee34fbc3132f7d4d89ada724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e855c9c7d50e2df71dd66a6f131d89ec1b400cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/49e46420015ebf2f12ae4b49764803a0e127f695/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_4846d43c7e415e1b58967591854d71d5b58d8def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/dfeb2148830a4c3743f88c0699524bf750454794/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_760e8d1f7c709192ad8615f750341d5b5bece714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_787131be4c93f18912b6c0d00c341d9679b057cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_a22fedea7b705e230686fb3b9f529419d1faf7db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_af0a4fa4520dc91fdf54c6f8c288df8a00ce813f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/0426bcab40c640842a25dead78f548ef0edccfd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_3186c41b50d13c35e86bc8a6422cbae2acdbf8b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/ba0ac6ddc06455e275c088c11a2fa5ee84a8b490/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_0526f7bfac62c00172c136db2bfbc48acb18e8a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a9913eae8d3cec849490a1f47e01fa33ebd2d830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/32d92a2c1895e94aa5ddc84cf91b6e6363fe6537/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_b153a405efb2d4297496fc77ec4d8dea53fbe0e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/bd98fcf89a147b27fd3a4d23c2bddd9301710865/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_8e167f197f24a2fba629fafba838f9dc9adf0754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/5e56fcda877f0a397ea3e100e11240a7100997b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_36ffa96b98099bf1e1b2125fd76fdfccee2b8950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/fb116f694d0ea74d56cae5f83151d59af7c3f0d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_ca3326b1e02301393cd9219f1e2eac07a3e2ae49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_a1d64af562489258205a149c6b0fdcc9b93c1c40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/0889c59bd3e5e087d20bdad6e19fed9ef3299dd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_da238d30536783458312b092f57c1eeae70c5718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/40943ffc586879452493ef6fa64bb88aa5935a52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_7a91ba3808ece4bedd06256cd345bc1aa18112a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/763c5a3285392b4b30f80b2ecbb0f2d77a547f33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_00a21a7b328d6f9a7ad490d20f97759696331198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manasa/.android/build-cache/7a46442aec736a95725c8452397038824fc7ed19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/manasa/React/FireChat/android/app/build/intermediates/pre-dexed/debug/classes_d15292a162407b6d9af5d371d930f6c2441fcbc8.jar" />
+    </item>
+
+</items>
